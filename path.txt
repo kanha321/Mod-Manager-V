@@ -1,0 +1,7 @@
+// This is a simple txt file where have to specify your path
+// Don't remove the quotes write the path between those quotes
+
+// Example: valorant_folder="C:\Rockstar Games\GTA V"
+gtav_activedir="K:\GTA-V-Demodifier\GTA V"
+
+gtav_inactivedir="K:\GTA-V-Demodifier\GTA V inactive"
