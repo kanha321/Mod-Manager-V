@@ -10,6 +10,7 @@ Before you begin using the GTA V Mod Manager, follow these steps to set up your 
 2. **Create an Inactive Directory**
    - Create a new folder with the same name as your GTA V directory and add " inactive" to the end of the name.
    - Example: If your game directory is named "GTA-V", the new folder should be named "GTA-V inactive".
+   - MAKE SURE "GTA V" AND "GTA V inactive" EXIST IN SAME DIRECTORY (see path.txt for example) ...
 
 3. **Copy Files to the Backup Directory**
    - Navigate to your game directory and select all files (Ctrl+A).
