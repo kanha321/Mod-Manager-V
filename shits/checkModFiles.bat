@@ -1,6 +1,12 @@
 @echo off
 setlocal enabledelayedexpansion
 
+if not defined launchable (
+    echo This file is not meant to be run directly
+    pause
+    goto :EOF
+)
+
 set "targetFolder=%~1"
 
 set "foundModFiles=0"

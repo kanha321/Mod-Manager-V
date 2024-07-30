@@ -1,7 +1,15 @@
-// This is a simple txt file where have to specify your path
+// This is a simple txt file where have to specify your paths
+// Keep them similar it is recommended to just put " inactive" at the end below is the example
 // Don't remove the quotes write the path between those quotes
 
-// Example: valorant_folder="C:\Rockstar Games\GTA V"
-gtav_activedir="K:\GTA-V-Demodifier\GTA V"
+// Example: gtav_activedir="C:\Rockstar Games\GTA V"
+// Example: gtav_inactivedir="C:\Rockstar Games\GTA V inactive"
+gtav_activedir="K:\games\GTAV"
 
-gtav_inactivedir="K:\GTA-V-Demodifier\GTA V inactive"
+gtav_inactivedir="K:\games\GTAV inactive"
+
+// this is only for epic games version of gta v (requires gta v epic games shortcut on both directories)
+epicgamesexe_path="C:\Program Files ^(x86^)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe"
+
+// launch_automatically is a boolean value only true/false is accepted
+launch_automatically="true"

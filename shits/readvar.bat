@@ -27,7 +27,7 @@ if not defined found (
     echo recreating path.txt file...
     echo.
     echo try again, and this time dont change variable name
-    call shits/recreatePathTxt.bat %file%
+    call %myShits%\recreatePathTxt.bat %file%
     pause
     start notepad %myDir%\path.txt
     exit

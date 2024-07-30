@@ -1,6 +1,12 @@
 @echo off
 setlocal enabledelayedexpansion
 
+if not defined launchable (
+    echo This file is not meant to be run directly
+    pause
+    goto :EOF
+)
+
 :: Set the target folder
 set "targetFolder=%~1"
 

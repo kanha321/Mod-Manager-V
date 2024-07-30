@@ -7,7 +7,7 @@ Before you begin using the GTA V Mod Manager, follow these steps to set up your 
 1. **Start with a Clean GTA V Installation**
    - Ensure that your GTA V installation has no mods installed.
 
-2. **Create an Inactive Directory**
+2. **Create a Backup Directory**
    - Create a new folder with the same name as your GTA V directory and add " inactive" to the end of the name.
    - Example: If your game directory is named "GTA-V", the new folder should be named "GTA-V inactive".
 
@@ -19,9 +19,6 @@ Before you begin using the GTA V Mod Manager, follow these steps to set up your 
      - `x64` folder
      - `Redistributables` folder
    - Copy all the remaining selected files to the new folder you created in step 2.
-
-4. **Epic Games Version Users**
-   - If you are using the Epic Games version of GTA V, cut/copy the game shortcut to both directories. This will allow you to launch the game automatically at the end.
 
 ## Testing
 
