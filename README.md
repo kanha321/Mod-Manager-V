@@ -30,3 +30,8 @@ There are "GTA V" and "GTA V inactive" directories provided for testing purposes
 ## Future Plans
 
 The process of setting up the directories might get automated in future versions of this tool.
+
+## Installation
+
+1. If you have git then just `git clone https://github.com/kanha321/Mod-Manager-V.git` in your terminal/Powershell/CMD.
+2. OR You can also download the zip file from release section and extract it (Not recommended but it will work).
